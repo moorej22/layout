@@ -1,11 +1,45 @@
 <!doctype html>
 <html>
-<div id= "wrapper">
-   <header>
-       <
-    </header>
-    <nav>
-    <ul>    </ul>
-</nav>
-</div>
+	<head>
+		<title>Jonathan Moore Portfolio</title>
+		<link rel="stylesheet" type="text/css" href="site.css">
+	</head>
+
+	<body>
+    		<div id="wrapper">
+			<header align=center class="main">
+				<h1>Jonathan Moore </h1>
+			</header>
+
+			<nav>
+				<h3 align=center>Navigation</h3>
+				<ul>
+						<li>Item 1</li>
+						<li>Item 2</li>
+						<li>Item 3</li>
+						<li>Item 4</li>
+				</ul>	
+			</nav>
+
+			<article>
+				<header align=center>
+					<h3>Article Title</h3>
+				</header>
+				<p></p>
+			</article>			
+
+			<aside>
+				<h3 align=center>Aside</h3>
+				<p>Pssst.. Hi</p>
+			</aside>			
+
+			<footer class="bottom">
+				<br>
+				<p align=center>&copy; Copyright 2014 Jonathan Moore</p>
+			</footer>
+
+
+		</div>
+	</body>
+
 </html>
